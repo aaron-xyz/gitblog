@@ -1,12 +1,12 @@
 # Notas cortas: Curso profesional de Git y Github
 
-Estas notas seran cortas y al punto, solo para recordar lo que voy viendo en cada leccion y
-futuras referencias. Tal como acostumbro hacerlo.
-Eso tal vez cambie en una futura version, pero no se sabe. ;)
+Estas notas serán cortas y al punto, solo para recordar lo que voy viendo en cada lección y
+para futuras referencias. Tal como acostumbro hacerlo.
+Eso tal vez cambie en una futura versión, pero no se sabe. ;)
 
-## 2. Comandos basicos en Git
+## 2. Comandos básicos en Git
 ### 2. Crea un repositorio de Git y haz to primer commit
-Practica 1: Comandos basicos
+Práctica 1: Comandos básicos
 - git init
 - git add
 - git status
