@@ -13,8 +13,12 @@ Práctica 1: Comandos básicos
 - git rm --cached
 - git commit -m "mensaje"
 - git log
-
 ### 2.4 Analizar cambios en tu proyecto con Git
 - git diff commitA commitB
 - git show
+### 2.5 Volver en el tiempo en nuestros repositorios utilizando reset y checkout
+- git reset
+    - git reset --hard
+    - git reset --soft
+- git checkout
 
