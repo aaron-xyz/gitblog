@@ -21,5 +21,5 @@ Práctica 1: Comandos básicos
     - git reset --hard
     - git reset --soft
 - git checkout
-> Nota importante: Si queremos cambiar de ubicacion un archivo trackeado, es mejor usar el comando git mv para no perder el track y
+> **Nota importante**: Si queremos cambiar de ubicacion un archivo trackeado, es mejor usar el comando git mv para no perder el track y
 > evitar posibles dolores de cabeza futuros.
