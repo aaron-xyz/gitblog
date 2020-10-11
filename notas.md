@@ -14,3 +14,7 @@ Práctica 1: Comandos básicos
 - git commit -m "mensaje"
 - git log
 
+### 2.4 Analizar cambios en tu proyecto con Git
+- git diff commitA commitB
+- git show
+
