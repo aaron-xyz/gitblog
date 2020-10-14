@@ -23,3 +23,11 @@ Práctica 1: Comandos básicos
 - git checkout
 > **Nota importante**: Si queremos cambiar de ubicacion un archivo trackeado, es mejor usar el comando git mv para no perder el track y
 > evitar posibles dolores de cabeza futuros.
+
+## 3. Flujo de trabajo basico en Git
+### 3.1 Flujo de trabajo basico con un repositorio remoto
+- git clone
+- git push
+- git fetch
+- git merge
+- git pull
