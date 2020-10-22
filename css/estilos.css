@@ -47,8 +47,19 @@ body
 }
 #post
 {
-    background: white;
+    background: #1e1f24;
+    color: whitesmoke;
     padding: 1em;
+}
+
+#img-container {
+    background: #1e1f24;
+}
+
+.main-img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 #footer
